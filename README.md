@@ -1,2 +1,2 @@
 # altv-xrust
-Moved to @xxshady/altv-rust
+Moved to [altv-rust](https://github.com/xxshady/altv-rust)
